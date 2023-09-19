@@ -3,7 +3,7 @@
 
 This repository contains the source code for a face recognition and facial emotion detection web application developed using Django, Machine Learning, and OpenCV. It represents a student project aimed at exploring the integration of machine learning models within a web-based interface and deploying it to the cloud.
 
-![Picture that shows the WebApp](./ScreenShot2023-09-18at2.52.09PM.png)
+![Picture that shows the WebApp](./Screen Shot 2023-09-18 at 2.52.09 PM.png)
 
 ## Project Overview
 Cloud Deployment: The application is designed to be hosted on Heroku, showcasing a practical deployment scenario for web applications powered by machine learning.
